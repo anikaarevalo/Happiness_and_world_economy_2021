@@ -70,5 +70,5 @@ https://www.linkedin.com/in/anika-arevalo/
 02/11/2023 - 00/00/2023
 
 ## Personal situation ##
-I was able to successfully train and test two Mallet LDA models in Dutch of two sizes (small and large). **As a minimum viable product (MVP), I am delivering this prototype that was developed using the small-sized NLP model that can be immediately deployed as a mobile application**.
+I was able to successfully train and test two Mallet LDA models in English of two sizes (small and large). **As a minimum viable product (MVP), I am delivering this prototype that was developed using the small-sized NLP model that can be immediately deployed as a mobile application**.
 Nonetheless, I also provide a trained large-sized NLP model to anticipate the downstream NLP tasks which relevant or interested parties can leverage. 

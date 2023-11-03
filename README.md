@@ -57,7 +57,7 @@ A sample output of top-20 topics and their correlated keywords when a tax-releva
 
 ## Contributors: ##
 
-- Anika Arevalo
+- Karitsa Anika Arevalo
 
 https://www.linkedin.com/in/anika-arevalo/
 

@@ -55,7 +55,7 @@ A sample output of top-20 topics and their correlated keywords when a tax-releva
 
 
 
-## Contributors: 'The Tag Collectors' ##
+## Contributors: ##
 
 - Anika Arevalo
 

@@ -51,6 +51,6 @@ https://www.linkedin.com/in/anika-arevalo/
 
 (1) days
 
-02/11/2023 - 00/00/2023
+06/12/2023 - 00/00/2023
 
 ## Personal situation ##

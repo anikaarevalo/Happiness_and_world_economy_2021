@@ -23,7 +23,9 @@ Univariate:
 
 
 Multivariate:
+
 6) Happiness Ladder Score vis-a-vis GDP
+   
 7) Considering a third varliable: Happiness Ladder Score, GDP, and Generosity
 
 

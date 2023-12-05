@@ -21,9 +21,11 @@ Univariate:
 4) Happiness (Ladder) Score and (Healthy) Life Expectancy
 5) GDP and (Healthy) Life Expectancy
 
+
 Multivariate:
 6) Happiness (Ladder) Score vis-a-vis GDP
 7) Considering a third varliable: Happiness (Ladder) Score, GDP, and Generosity
+
 
 As an amateur philosopher and data science practitioner, this project is both personal and professional in significance. At this stage of the product cycle development, the **end-users** who come to mind are fellow ethusiasts who believe that living well is as much a matter of individual determination, as well as a collective phenomenon that can be scientifically quantified.  
 

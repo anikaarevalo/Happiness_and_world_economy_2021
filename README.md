@@ -16,16 +16,15 @@
 Univariate:
 
 1) Determining the GDP trends across years
-2) Looking into mean, median, and standard deviation of GDP values for each country individually
-3) Examining distribution of happiness scores across regions
+2) Examining distribution of happiness scores across regions
 
 
 Multivariate:
 
-6) Examining the relationship between GDP and (Healthy) Life Expectancy
-7) Examining the relationship between Happiness (Ladder) Score and (Healthy) Life Expectancy
-8) Examining the relationship between Happiness Ladder Score vis-a-vis GDP
-9) Considering a third varliable: The relatiionship between/among Happiness Ladder Score, GDP, and Generosity
+3) Examining the relationship between GDP and (Healthy) Life Expectancy
+4) Examining the relationship between Happiness (Ladder) Score and (Healthy) Life Expectancy
+5) Examining the relationship between Happiness Ladder Score vis-a-vis GDP
+6) Considering a third varliable: The relatiionship between/among Happiness Ladder Score, GDP, and Generosity
 
 
 As an amateur philosopher and data science practitioner, this project is both personal and professional in significance. At this stage of the product cycle development, the **end-users** who come to mind are fellow ethusiasts who believe that living well is as much a matter of individual determination, as well as a collective phenomenon that can be scientifically quantified.  

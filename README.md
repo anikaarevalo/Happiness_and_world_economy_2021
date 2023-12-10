@@ -9,23 +9,23 @@
 1) Data transformation with Pandas
 2) Data visualization with Matplotlib and Seaborn
 3) Machine learning with TensorFlow
-4) Probablity distrubtion and the Central Limit Theorem using SciPy
+4) Probablity distribution and the Central Limit Theorem using SciPy
 
 <p>With the general classification of 'Univariate' and 'Multivariate' analyses, here are some basic statistical investigations that we'll be exploring with our data:</p> 
 
 Univariate:
 
 1) Determining the GDP trends across years
-2) Examining distribution of happiness scores across regions
-3) Distribution of GDP values for each country individually
-4) Happiness (Ladder) Score and (Healthy) Life Expectancy
-5) GDP and (Healthy) Life Expectancy
+2) Distribution of GDP values for each country individually
+3) Examining distribution of happiness scores across regions
 
 
 Multivariate:
 
-6) Happiness Ladder Score vis-a-vis GDP
-7) Considering a third varliable: Happiness Ladder Score, GDP, and Generosity
+6) GDP and (Healthy) Life Expectancy
+7) Happiness (Ladder) Score and (Healthy) Life Expectancy
+8) Happiness Ladder Score vis-a-vis GDP
+9) Considering a third varliable: Happiness Ladder Score, GDP, and Generosity
 
 
 As an amateur philosopher and data science practitioner, this project is both personal and professional in significance. At this stage of the product cycle development, the **end-users** who come to mind are fellow ethusiasts who believe that living well is as much a matter of individual determination, as well as a collective phenomenon that can be scientifically quantified.  

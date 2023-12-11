@@ -27,23 +27,13 @@ Multivariate:
 6) Considering a third varliable: The relatiionship between/among Happiness Ladder Score, GDP, and Generosity
 
 
-As an amateur philosopher and data science practitioner, this project is both personal and professional in significance. At this stage of the project, the **audience** who come to mind are fellow ethusiasts who believe that achieving happiness is as much a matter of individual determination, as well as a collective phenomenon that can be scientifically quantified and tracked.  
-
-
-## Installation ##
-In the repository you can find the **requirements.txt** file. Make sure that these are installed. 
+At this stage of the project, the **audience** who come to mind are peers who believe that achieving happiness is as much a matter of individual determination, as well as a collective phenomenon that can be scientifically quantified and tracked.  
 
 
 ## Data Sources ##
 
 - **Meta data, train-test-validation data** provided by the <a href="https://worldhappiness.report/">World Happiness Report</a> and the <a href="https://ourworldindata.org/grapher/national-gdp-constant-usd-wb?tab=table">World Economic Forum</a> 
-- **Research material on Natural Language Processing (NLP) models** and available libraries were sourced from the following:
-  - Latent Dirilicht Allocation (LDA) model optimised by the Mallet algorithm 
-    
-    https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
-  - Training Named Entity Recognition (NER) model in SpaCy
-  
-    https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/ 
+
 
 ## Visuals ##
 

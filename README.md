@@ -9,7 +9,7 @@
 3) Machine learning with TensorFlow
 4) Probablity distribution and the Central Limit Theorem using SciPy
 
-<p>With the general classification of 'Univariate' and 'Multivariate' analyses, here are some basic statistical investigations that we'll be exploring with our data:</p> 
+<p>Using a classification between 'Univariate' and 'Multivariate' analyses, here are some basic statistical investigations that we'll be exploring with our data:</p> 
 
 Univariate:
 

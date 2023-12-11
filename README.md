@@ -1,4 +1,4 @@
-# 😊📊The relatiopnship between happiness and global economic development for year 2021
+# 😊📊The relationship between happiness and global economic development for year 2021
 
 ## Description ##
 

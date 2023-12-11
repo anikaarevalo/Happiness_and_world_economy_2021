@@ -2,7 +2,7 @@
 
 ## Description ##
 
-<em>Can happiness be quantified or measured--and if so, is it a phenomenon directly shaped by classic economic forces behind material wealth or prosperity, e.g. <strong>GDP</strong>?</em> Discussions on 'happiness' may be replete in Psychology, Philosophy, and the Humanities, but what positive socio-economic conditions can we statistically infer (or predict) with our analysis of GDP-related data in relation to measures of overall collective wellbeing?</p><p><strong>What is happiness and what are the keys to a happy life?</strong>  We all want to achieve happiness, but many do not know precisely what the variables resulting to a happy life are.</p><p>Deploying the corresponding Python-based libraries and modules, we'll apply the following data analysis methods and extract the following statistical analyses in order to generate the answers we are seeking from the available data on global happiness and the international economy:</p>
+<em>Can happiness be quantified--and if so, is it a phenomenon directly shaped by classic economic forces behind material prosperity, e.g. <strong>GDP</strong>?</em> Discussions on 'happiness' may be replete in Psychology, Philosophy, and the Humanities, but what positive socio-economic conditions can we statistically infer (or predict) with our analysis of GDP-related data in relation to measures of overall collective wellbeing?</p><p><strong>What is happiness and what are the keys to a happy life?</strong>  We all want to achieve happiness, but many do not know precisely what the variables resulting to a happy life are.</p><p>Deploying the corresponding Python-based libraries and modules, we'll apply the following data analysis methods and extract the following statistical analyses in order to generate the answers we are seeking from the available data on global happiness and the international economy:</p>
 
 1) Data transformation with Pandas
 2) Data visualization with Matplotlib and Seaborn
@@ -25,7 +25,7 @@ Multivariate:
 6) Considering a third varliable: The relatiionship between/among Happiness Ladder Score, GDP, and Generosity
 
 
-At this stage of the project, the **audience** who come to mind are peers who believe that achieving happiness is as much a matter of individual determination, as well as a collective human endeavour that can be scientifically quantified and tracked.  
+At this stage of the project, the **audience** who come to mind are peers who believe that achieving happiness is as much a matter of individual determination, as well as a shared human endeavour that can be scientifically defined and tracked.  
 
 
 ## Data Sources ##

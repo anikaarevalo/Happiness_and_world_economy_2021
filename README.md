@@ -19,9 +19,9 @@ Univariate:
 
 Multivariate:
 
-3) Examining the relationship between GDP and (Healthy) Life Expectancy
-4) Examining the relationship between Happiness (Ladder) Score and (Healthy) Life Expectancy
-5) Examining the relationship between Happiness Ladder Score vis-a-vis GDP
+3) Examining the relationship between GDP, (Healthy) Life Expectancy, and Regional indicator
+4) Examining the relationship between Happiness raking and (Healthy) Life Expectancy, and Regional indicator
+5) Examining the relationship between Happiness ranking, GDP, and Regional indicator
 6) Considering a third varliable: The relatiionship between/among Happiness Ladder Score, GDP, and Generosity
 
 

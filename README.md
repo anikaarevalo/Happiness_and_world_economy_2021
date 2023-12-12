@@ -14,15 +14,15 @@
 Univariate:
 
 1) Determining the GDP trends across years
-2) Examining distribution of happiness scores across regions
+2) Determining distribution of happiness scores across regions
 
 
 Multivariate:
 
 3) Examining the relationship between GDP, (Healthy) Life Expectancy, and Regional indicator
-4) Examining the relationship between Happiness raking and (Healthy) Life Expectancy, and Regional indicator
+4) Examining the relationship between Happiness raking, (Healthy) Life Expectancy, and Regional indicator
 5) Examining the relationship between Happiness ranking, GDP, and Regional indicator
-6) Considering a third varliable: The relatiionship between/among Happiness Ladder Score, GDP, and Generosity
+6) 'Giving' as a third varliable: Inferringt the relationship between/among Happiness ranking, GDP, and Generosity
 
 
 At this stage of the project, the **audience** who come to mind are peers who believe that achieving happiness is as much a matter of individual determination, as well as a shared human endeavour that can be scientifically defined and tracked.  

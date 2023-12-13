@@ -6,8 +6,6 @@
 
 1) Data transformation with Pandas
 2) Data visualization with Matplotlib and Seaborn
-3) Machine learning with TensorFlow
-4) Probablity distribution and the Central Limit Theorem using SciPy
 
 <p>Using a classification between 'Univariate' and 'Multivariate' analyses, here are some basic statistical investigations that we'll be exploring with our data:</p> 
 
@@ -22,7 +20,7 @@ Multivariate:
 3) Examining the relationship between GDP, (Healthy) Life Expectancy, and Regional indicator
 4) Examining the relationship between Happiness raking, (Healthy) Life Expectancy, and Regional indicator
 5) Examining the relationship between Happiness ranking, GDP, and Regional indicator
-6) 'Giving' as a third varliable: Inferringt the relationship between/among Happiness ranking, GDP, and Generosity
+6) 'Giving' as a third varliable: Inferring the relationship between/among Happiness score, GDP, and 'Generosity'
 
 
 At this stage of the project, the **audience** who come to mind are peers who believe that achieving happiness is as much a matter of individual determination, as well as a shared human endeavour that can be scientifically defined and tracked.  

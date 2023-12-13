@@ -34,6 +34,26 @@ At this stage of the project, the **audience** who come to mind are peers who be
 ## Visuals ##
 
 
+<p><c>World GDP over the decades</c></p>
+<img width="750" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/Happiness_and_world_economy_2021/blob/7d72615f90b2d45f49a844ec7e6cf2916c2753a9/visuals/decade%20vs%20gdp.png">
+
+
+
+<c>Proportion of happiness score distributed among world regions</c>
+<img width="750" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/Happiness_and_world_economy_2021/blob/7d72615f90b2d45f49a844ec7e6cf2916c2753a9/visuals/heatmap%20happiness%20and%20regions.png">
+
+
+
+<c>Linear correlation: Happiness score and Logged GDP per capita in 2021</c>
+<img width="750" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/Happiness_and_world_economy_2021/blob/7d72615f90b2d45f49a844ec7e6cf2916c2753a9/visuals/linear%20cor%20happiness%20%26%20gdp%20scatterplot.png">
+
+
+
+<c>Non-linear relationship: A third variable 'Generosity' in relation to happiness and logged GDP per capita in 2021</c>
+<img width="600" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/Happiness_and_world_economy_2021/blob/7d72615f90b2d45f49a844ec7e6cf2916c2753a9/visuals/nonlinear%20cor%20with%20generosity.png">
+
+
+
 
 ## Contributors: ##
 
@@ -45,8 +65,12 @@ https://www.linkedin.com/in/anika-arevalo/
 
 ## Timeline ##
 
-(1) days
+(5) work days
 
-06/12/2023 - 00/00/2023
+06/12/2023 - 13/12/2023
 
 ## Personal situation ##
+
+This project puts into practice the conventional Data Science workflow that focuses on the key methods of data transformation, data exploration, and data analysis. In this regard, I deployed performant Python-based libraries and module to leverage basic statistical operations and communicate results.
+
+The scope of the tasks in this project is limited to statistical analyses of the data to generate measures of spread, distribution, and the correlation coefficient. Identifying and modeling non-linear relationships is as well crucial in performing statistical investiations on real-world data. A logical <b>next step</b> in this project is to <b>capture and analyze more non-linear correlations in the data</b> by employing various statistical methods and machine learning techniques, such as polynomial regression, spline regression, and non-linear regression models.

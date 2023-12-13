@@ -6,8 +6,6 @@
 
 1) Data transformation with Pandas
 2) Data visualization with Matplotlib and Seaborn
-3) Machine learning with TensorFlow
-4) Probablity distribution and the Central Limit Theorem using SciPy
 
 <p>Using a classification between 'Univariate' and 'Multivariate' analyses, here are some basic statistical investigations that we'll be exploring with our data:</p> 
 
